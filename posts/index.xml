@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Key Lime</title>
+    <link>https://keylimeshortbread.github.io/posts/</link>
+    <description>Recent content in Posts on Key Lime</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2024 20:45:42 -0400</lastBuildDate>
+    <atom:link href="https://keylimeshortbread.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://keylimeshortbread.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 25 May 2024 20:45:42 -0400</pubDate>
+      <guid>https://keylimeshortbread.github.io/posts/my-first-post/</guid>
+      <description>Introduction # This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
